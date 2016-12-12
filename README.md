@@ -2,7 +2,7 @@
 
 Embedded PostgreSQL server provides a platform neutral way for running postgres binaries in unittests.
 This library is based on [Flapdoodle OSS's embed process](https://github.com/flapdoodle-oss/de.flapdoodle.embed.process). 
-It is a for of the original postgres-embedded project found here: https://github.com/yandex-qatools/postgresql-embedded
+The Lib is a fork of the original postgres-embedded project found here: https://github.com/yandex-qatools/postgresql-embedded
 Note: this fork of the Embedded PostgreSQL component compiles with Java 1.7
 ## Motivation
 
